@@ -5,7 +5,7 @@ These are some **ideas**/a first approach for a Open Source License that allows 
 
 It is forbidden to use this Software in any system that is capable of killing a human beeing or cooperates with any system that is capable of that.
 
-It is not allowed to use this Software in any project that has the intention to harm people. This includes any kind of reconnaissance or surveillance. This for example applies to any kind of Police and Military as well as any kind of organzation that designs or builds hard- or software systems for those purposses.
+It is not allowed to use this Software in any System that has the intention to harm people. This includes any kind of reconnaissance or surveillance. This applies to any form of law enforcement and Military as well as any kind of organzation that designs or builds hard- or software systems for those purposses.
 
 # Issues
 
