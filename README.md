@@ -14,3 +14,5 @@ It is not allowed to use this Software in any System that has the intention to h
  - what about robots that provide logistic support for the military?
  - how is "harm people" defined? does this include surveillance?
  - what about security systems?
+ - distinguish between harming and killing people? What about a light quadcopter drone that is not capable to harm a person but has the capability to injure someone.
+ - capability vs. intention - do not use in projects that are not CAPABLE of killing or do not use in systems that have the INTENTION to harm/kill people?
