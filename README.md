@@ -5,9 +5,11 @@ These are some **ideas**/a first approach for a Open Source License that allows 
 
 # Other Licenses/Real-World examples
 
-https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl
+The GPL project is against a https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl
 
-# Ideas
+There is a campaign to stop killer robots (this is only a part of non-military use): https://www.stopkillerrobots.org/
+
+# Ideas (wording)
 
 It is forbidden to use this Software in any system that is capable of killing a human beeing or cooperates with any system that is capable of that.
 
