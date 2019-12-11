@@ -5,7 +5,7 @@ These are some **ideas**/a first approach for a Open Source License that allows 
 
 # Other Licenses/Real-World examples
 
-The GPL project is against a https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl
+There is a Non-Miliary extension to GPL https://www.linux.com/news/open-source-project-adds-no-military-use-clause-gpl
 
 There is a campaign to stop killer robots (this is only a part of non-military use): https://www.stopkillerrobots.org/
 
